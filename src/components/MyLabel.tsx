@@ -33,7 +33,7 @@ export const MyLabel = ({
   size    = 'normal',
   allCaps = false,
   color = 'text-primary',
-  backgroundColor,
+  backgroundColor = 'trasparent',
   fontColor,
   ...props
 }: Props) => {
