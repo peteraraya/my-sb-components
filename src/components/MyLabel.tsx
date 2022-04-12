@@ -47,3 +47,6 @@ export const MyLabel = ({
     </span>
   )
 }
+
+// aumenta compatibilidad con el componente
+export default MyLabel;
