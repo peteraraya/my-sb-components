@@ -59,4 +59,15 @@ CustomBackgroundColor.args = {
   size: 'h1',
   backgroundColor: '#b19ca6',
 };
+export const CustomBackgroundColorBlack = Template.bind({});
+CustomBackgroundColorBlack.args = {
+  size: 'h1',
+  backgroundColor: '#000000',
+};
+
+export const CustomBackgroundColorBlue = Template.bind({});
+CustomBackgroundColorBlack.args = {
+  size: 'h1',
+  backgroundColor: '#074170',
+};
 
